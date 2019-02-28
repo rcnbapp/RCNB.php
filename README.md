@@ -12,6 +12,6 @@ Please refer to [RCNB.js](https://github.com/Coxxs/RCNB.js)
 require_once 'rcnb.php';
 
 $rcnb = new RCNB();
-$rcnb.encode('rcnb'); // 'ɌcńƁȓČņÞ'
-$rcnb.decode('ɌcńƁȓČņÞ'); // 'rcnb'
+$rcnb->encode('rcnb'); // 'ɌcńƁȓČņÞ'
+$rcnb->decode('ɌcńƁȓČņÞ'); // 'rcnb'
 ```
