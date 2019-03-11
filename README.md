@@ -2,7 +2,7 @@
 
 The world is based on RC. Thus, *everything* can be encoded into RCNB.
 
-See also: [RCNB.js](https://github.com/rcnbapp/RCNB.js)
+See also: [RCNB.js](https://github.com/rcnbapp/RCNB.js) [librcnb](https://github.com/rcnbapp/librcnb)
 
 ## What's RCNB?
 
