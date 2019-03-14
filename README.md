@@ -2,7 +2,7 @@
 
 The world is based on RC. Thus, *everything* can be encoded into RCNB.
 
-RCNB is available in various languages: [JavaScript](https://github.com/rcnbapp/RCNB.js) [C](https://github.com/rcnbapp/librcnb) PHP [Pascal](https://github.com/rcnbapp/RCNB.pas) ([more..](https://github.com/rcnbapp/))
+RCNB is available in various languages: [JavaScript](https://github.com/rcnbapp/RCNB.js) [C](https://github.com/rcnbapp/librcnb) **PHP** [Pascal](https://github.com/rcnbapp/RCNB.pas) ([more..](https://github.com/rcnbapp/))
 
 ## What's RCNB?
 
