@@ -1,0 +1,7 @@
+{
+    "name": "rcnb",
+    "description": "Everything can be encoded into RCNB with PHP.",
+    "require": {
+        "php": "^7.2"
+    }
+}
