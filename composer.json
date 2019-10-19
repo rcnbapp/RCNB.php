@@ -1,7 +1,10 @@
 {
     "name": "rcnb/rcnb",
     "description": "Everything can be encoded into RCNB with PHP.",
+    "keywords": ["rcnb","encoding"],
+    "homepage": "https://github.com/rcnbapp/RCNB.php",
+    "license": "MIT",
     "require": {
-        "php": "^7.2"
+        "php": "^7.0"
     }
 }
